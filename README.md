@@ -8,10 +8,11 @@
 - [Technologies Used](#technologiesused)
 - [Contributers](#contributers)
 - [Email](#email)
+- [Screenshots](#screenshots)
 
 <h2>Website</h2>
 
-[Link]()
+[Link](https://ians-mvc-challenge.herokuapp.com/)
 <h2>Description</h2><p>This website is a blog spot regarding tech.</p>
 <h2>Installation</h2><p>Use the link to get to the website and you are good to go.</p>
 <h2>Usage</h2><p>This application is a tech blog website that allows users to do things like post, delete comment and more.</p>
@@ -30,3 +31,8 @@ Myself ( https://github.com/ianbridges ) and Bobby Bridges ( https://github.com/
 
 <h2>Email</h2>
 ianexample@email.com
+
+<h2>Screenshots</h2>
+
+![Image](./assets/Screenshot%201.jpg)
+![Image](./assets/Screenshot%202.jpg)

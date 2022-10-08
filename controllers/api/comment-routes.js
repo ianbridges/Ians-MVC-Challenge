@@ -11,7 +11,7 @@ router.get('/', (req, res) => {
     });
 });
 
-routerr.put('/:id', withAuth, (req, res) => {
+router.put('/:id', withAuth, (req, res) => {
   Comment.update(req.body, {
     where: {
       id: req.params.id,
